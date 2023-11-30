@@ -1,0 +1,17 @@
+HTML
+
+
+tag=etiqueta
+etiqueta-atributo="valor"
+head=cabeza
+
+_lo que podemos ver lo encontramos en el "body"
+_lo que no podemos ver, lo encontramos en el "head"
+<b>negrita</b>
+<i>italica</i>
+<stike>tachada</stike>
+<a href= "https://enlace.com">apreta aqui</a>
+<alt>= nombre discriptivo de la imagen
+_la seccion va adentro del articulo
+_los link pueden tener 4 posibles estados, cuando nunca a sido visitado, cuando a sido vicitado, cuando nosotros pasamos el mause por encima de el, cuando el link esta activo
+_la etiqueta de span: se escriben uno seguido del otro

@@ -1,0 +1,34 @@
+CSS
+
+_in= se le asigna un nombre
+_class= se le asigna una clase
+_#= le indica a css que tiene que ir a buscar es un elemento el cual contenga la id
+_. el punto indica que vamos a seleccionar una "class"
+_es muy importante como escribimos el html
+_usando la notacion "div" en html, cuando le damos una propiedad en css se pone solo div seguido del la etiqueta que querramos asignarle el estilo
+_* se toma todo lo que tenga el html, todo lo que no alla sido seleccionado y tenga un estilo, esto mayormente se pone al final para asi tomar todo lo que no alla sido indicado.
+_/*aca adentro de dejan comentarios en css*/
+_ para modifica el color se utiliza color= #000 siendo el mas oscuro y #fff siendo el mas claro, asi se puede jugar con la tranformacion del color. tambien se puede utilizar color= #000000 siendo los dos primeros para el rojo, los siguientes dos el verde y los ultimps dos al azul. asi se trabaja con la variacion completa de los colores 
+_color: RGB(0, 0, 0); trabaja de la misma forma que color= #000 pero se le indican valores del 0 al 250, RGBA= (0,0,0,0.3) esto le da un color transparente
+_BORDER: 5px color dashed; primer elemento el grosor del borde, el color del borde, el estilo que va a tener este borde( control+espacio nos muetra las variaciones)( alternativas de estilo: dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden
+_opacity: le da trasparencia al elemento completooo
+_background es para modificar el fondo del elemento, seleccionando background-image: url('nombre del archivo');
+_MARGIN: 15px 20px 30px 20px; el primero es el margen de arriba, derecha, abajo, izquierda. esto sirve para dejar espacio entre etiquetas o acomodar algun titulo
+_PADDING: esto son los espacios que se agregan dentro del elemento.
+_OVERFLOW: scroll; esto agrega unas barras laterales para poder deslizar y leer el texto completo
+_OVERFLOW: hidden; todo loque no se encuentre en el elemento se oculta
+_el BOXMODEL es el margin, padding, border, practicamente todo el espacio que va a ocupar el elemento con todo esto ya incorporado.
+_outline: es como el borde despues del borde pero antes del margin
+_TEXT-ALIGN: sirve para center el texto, tambien podemos ponerle justify esto hace que da espacio entre palabras para compensar todo el espacio
+_TEXT-DECORATION: para darle otro acabado a los textos, o agregarle subrallado(underline), para tachar las palabras(line-through) para ponerle linea arriba(overline)
+_TEXT-SHADOW: 3px 5px color; para darle un sobriado a las palabras y si le ponemos otro valor(3px) es la fuminacion de la sombra.
+_FONT-FAMILY: le indica el estilo de las palabras
+_ para jugar con los estados de los links ponemos, el selector de A:link luego A:visited, luego A:hover, luego A:active, esto va a hacer que el link tenga variacion, el orden es el escrito siempre
+_para las listas podemos usar LIST-STYLE-TYPE: elegis que icono usar o sino usar ningun marcador
+_CURSOR: POINTER; al pasar por arriba del elemento cambia el icono del mause a una manito
+_DISPLAY:Nos indica como vamos a colocar los elementos de html sobre nuestro documento
+_MAX-width: indica el ancho maximo que puede tener el elemento.
+_Pisition: esto nos ayuda a fijar un elemento o moverlo
+_float: hace flotar el elemento hacia la izq, der pero siempre en el mismo renglon
+_Transition: nos permite indicarle que propiedade de css queremos que sean animadas, tenemos que indicarle el incio y final
+ 

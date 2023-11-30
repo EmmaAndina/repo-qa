@@ -1,0 +1,17 @@
+selenium-java
+_Elementos del curso:
+.java JDK
+.Maven
+.Selenium
+.testNG
+.Eclipse
+.Git
+
+INTRODUCCION:	
+_Maven:gestion y contruccion de proyecto; project object model (POM); https://maven.apache.org/download.cgi	
+_selenium: es una suite de herramientas que sirven para automatizar un browser; ventajas: licencia apache 2.0; funciona en multiples SO; utilizable en muchos lenguajes de programacion.
+_testNG: herramientas para hacer los unit test; similar a JUnit
+_Git: gestor de repositorios; el mas conocido en github; posibilidad de trabajo con el equipo; posibilidad de crear ramas(y luego volver a hacer marge);github y bitbucket lo mas usados.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+

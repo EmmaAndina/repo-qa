@@ -1,0 +1,45 @@
+github
+_es un sitio donde se almacenan los proyecto de programacion, trae una serie de herramientas y funcionalidades
+ git:
+_es un sistema de control de versiones y actualizaciones, lleva un control de el proyecto, te indica quien hizo modificaciones quien trabajo en el proyecto, modificar elementos que agregan tus compañeros, etc
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLLBACK: volver hacia atras en versiones.
+
+Usos de git:
+_historial.
+_almacenar codigo.
+_trabajar en equipo.
+_nos permite saber cuando se introdujo un error.
+
+COMANDOS:
+
+
+LS:es un comando que nos permite listar todos los archivos y carpetas que se encuntren en nuetro directorio.
+pwd: nos indica en que directorio nos encontramos.
+CD "carpeta donde nos queramos mover".
+CD .. para salir de la carpeta en donde estabamos.
+CD .git para ver el estatus de la carpeta
+mkdir "nombre del directorio" sirve para crear una carpeta dentro de git
+git status: nos indica el estado de nuetro archivo
+git add: para agregar el archivo a nuetra carpeta en git
+git commit -m "mensaje con sentido"
+RM para borrar un archivo de la carpeta.
+git restore --staged nombre del archivo
+git restore para volver a agregar el archivo que eliminamos.
+mv "archivo" nombre del nuevo archivo
+git diff te muentra los cambios en el archivo, de forma rapida en git
+git log --oneline nos muetra el historial, con un indentificador de commit 
+git branche sirve para saber en que rama nos encontramos
+git checkout -b nombre de la rama para crear una nueva rama, y te incorpora a esa
+cat nombre del archivo, nos muetra el contenido de nuetro archivo
+git marge nombre de la rama, para mover la rama a otra
+
+
+
+
+
+FLUJO DE TRABAJO:
+
+computados-stage-commit-server
+
+

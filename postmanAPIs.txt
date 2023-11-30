@@ -1,0 +1,15 @@
+postman/APIs
+
+Get:nos permite obtener data o informacion de una APIs(read)
+Post:nos permite nueva informacion en una APIs(create)
+patch: nos permite actualizar la informacion en las APIs(modify)
+Delete: nos permite eliminar data de la APIs(delete)
+put: para remplazar (remplace)
+
+
+STATUS CODES: 1xx= informational
+	      2xx= success
+	      3xx= redirection
+	      4xx= client error
+	      5xx= server error
+
