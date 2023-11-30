@@ -32,4 +32,4 @@ _Pisition: esto nos ayuda a fijar un elemento o moverlo
 _float: hace flotar el elemento hacia la izq, der pero siempre en el mismo renglon
 _Transition: nos permite indicarle que propiedade de css queremos que sean animadas, tenemos que indicarle el incio y final
  
-pechito
+ Lindo
